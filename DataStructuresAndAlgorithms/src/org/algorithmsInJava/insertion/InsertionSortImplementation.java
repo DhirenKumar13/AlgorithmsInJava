@@ -12,7 +12,7 @@ public class InsertionSortImplementation {
 		System.out.println(" .. BEFORE SORTING THE ARRAY ..");
 
 		Arrays.asList(array).forEach(item -> {
-			System.out.println(item);
+			System.out.println(item);  
 		});
 
 		System.out.println("******************************************************");
